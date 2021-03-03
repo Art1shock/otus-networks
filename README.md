@@ -1,3 +1,3 @@
 #### Курс "[Сетевой инженер. Базовый](https://otus.ru/lessons/setevoy-inzhener-basic/)" от [OTUS.RU](https://otus.ru/)
 - [Практические работы](https://github.com/Art1shock/otus-networks/tree/main/labs)
-- [Проектная работаs](https://github.com/Art1shock/otus-networks/tree/main/final)
+- [Проектная работа](https://github.com/Art1shock/otus-networks/tree/main/final)
