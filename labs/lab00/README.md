@@ -1,1 +1,2 @@
+Вначале строю сеть согласно топологии, при этом подсоединяя кончольный кабель к коммутатору:
 ![](https://github.com/Art1shock/images/blob/main/Screenshot_1.png)
