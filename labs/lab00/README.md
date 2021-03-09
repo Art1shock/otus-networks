@@ -63,4 +63,4 @@
 
 ![](https://github.com/Art1shock/images/blob/main/Screenshot_7.png)
 
-Как видно со скриншота выше интерфейс VLAN 1 не иммеет IP-адреса (no ip address) и он выключен (shutdown).
+Как видно со скриншота выше интерфейс VLAN 1 не имеет IP-адреса (no ip address) и он выключен (shutdown).
