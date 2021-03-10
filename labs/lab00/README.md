@@ -91,7 +91,11 @@
 Выше показана версия ОС Cisco IOS - 15.0(2)SE4
 
 **Как называется файл образа системы?**
-///
+
+![](https://github.com/Art1shock/images/blob/main/Screenshot_13.png)
+
+Со скриншота видно, что файл образа системы имеет следующее название: 2960-lanbasek9-mz.150-2.SE4.bin
+
 **Какой базовый MAC-адрес назначен коммутатору?**
 
 ![](https://github.com/Art1shock/images/blob/main/Screenshot_12.png)
