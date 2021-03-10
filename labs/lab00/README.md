@@ -67,9 +67,9 @@
 
 **Какой MAC-адрес имеет SVI? Возможны различные варианты ответов.**
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_8.png)
+![](https://github.com/Art1shock/images/blob/main/Screenshot_9.png)
 
-Здесь видно, что интерфейс SVI (или VLAN) имеет следующий MAC-адрес: .
+Здесь видно, что интерфейс SVI (или VLAN) имеет следующий MAC-адрес: 0001.9764.a345
 
 **e.	Изучите IP-свойства интерфейса SVI сети VLAN 1.
 Какие выходные данные вы видите?**
