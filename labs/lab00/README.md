@@ -119,5 +119,10 @@
 ![](https://github.com/Art1shock/images/blob/main/Screenshot_15.png)
 
 **Какой MAC-адрес у интерфейса?**
+
+![](https://github.com/Art1shock/images/blob/main/Screenshot_16.png)
+
+MAC-адрес интерфейса fastEthernet 0/6: 000a.f356.1706
+
 **Какие настройки скорости и дуплекса заданы в интерфейсе?**
 
