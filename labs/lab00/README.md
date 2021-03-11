@@ -160,3 +160,13 @@ Switch# dir flash:
 Во второй части необходимо будет настроить основные параметры коммутатора и компьютера.
 
 ### Шаг 1. Настройте базовые параметры коммутатора.
+
+**a.	В режиме глобальной конфигурации скопируйте следующие базовые параметры конфигурации и вставьте их в файл на коммутаторе S1. 
+no ip domain-lookup
+hostname S1
+service password-encryption
+enable secret class
+banner motd #
+Unauthorized access is strictly prohibited. #**
+
+
