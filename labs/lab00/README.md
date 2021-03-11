@@ -179,3 +179,11 @@ Unauthorized access is strictly prohibited. #**
 Назначаю IP-адрес и маску с помощью следующих команд:
 
 ![](https://github.com/Art1shock/images/blob/main/Screenshot_22.png)
+
+**c. Доступ через порт консоли также следует ограничить с помощью пароля. Используйте cisco в качестве пароля для входа в консоль в этом задании. Конфигурация по умолчанию разрешает все консольные подключения без пароля. Чтобы консольные сообщения не прерывали выполнение команд, используйте параметр logging synchronous.
+S1(config)# line con 0
+S1(config-line)# logging synchronous**
+
+Зайдя в настройки порта консоли ставлю пароль cisco:
+
+![](https://github.com/Art1shock/images/blob/main/Screenshot_23.png)
