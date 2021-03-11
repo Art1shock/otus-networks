@@ -276,3 +276,9 @@ e. Чтобы завершить сеанс Telnet, введите exit.**
 ![](https://github.com/Art1shock/images/blob/main/Screenshot_31.png)
 
 Как видно подключение произошло успешно. Был запрошен пароль для входа, значит все настроено правильно.
+
+Сохраняем текущую конфигурацию и завершаем сеанс telnet:
+
+![](https://github.com/Art1shock/images/blob/main/Screenshot_32.png)
+
+![](https://github.com/Art1shock/images/blob/main/Screenshot_33.png)
