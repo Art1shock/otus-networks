@@ -104,7 +104,7 @@
 
 **h. Изучите свойства по умолчанию интерфейса FastEthernet, который используется компьютером PC-A.**
 
-Свойтсва интерфейса FastEthernet 0/6 можно увидеть c gjvjom. rjvfyls **show interfaces fastEthernet 0/6**. 0/6, так как провод подключен к 6 порту коммутатора. 
+Свойтсва интерфейса FastEthernet 0/6 можно увидеть c помощью команды **show interfaces fastEthernet 0/6**. 0/6, так как провод подключен к 6 порту коммутатора. 
 
 ![](https://github.com/Art1shock/images/blob/main/Screenshot_14.png)
 
