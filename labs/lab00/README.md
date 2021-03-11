@@ -239,7 +239,7 @@ S1# show interface vlan 1**
 
 ![](https://github.com/Art1shock/images/blob/main/Screenshot_26.png)
 
-Полоса пропускания:
+Полоса пропускания: 100 Мбит/с (BW 100000 Kbit).
 
 ### Шаг 2. Протестируйте сквозное соединение, отправив эхо-запрос.
 
