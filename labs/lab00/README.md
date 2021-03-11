@@ -227,3 +227,12 @@ S1(config-line)# logging synchronous**
 
 Конфигурацию я скинул в [отдельный файл](https://github.com/Art1shock/otus-networks/blob/main/labs/lab00/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3) в папке этого ДЗ.
 
+**b. Проверьте параметры VLAN 1.
+S1# show interface vlan 1**
+**Какова полоса пропускания этого интерфейса?**
+**В каком состоянии находится VLAN 1?**
+**В каком состоянии находится канальный протокол?**
+
+Предварительно подняв VLAN 1 можно увидеть, что он поднят:
+
+![](https://github.com/Art1shock/images/blob/main/Screenshot_26.png)
