@@ -212,3 +212,7 @@ S1(config-line)# logging synchronous**
 **5) Выберите Протокол Интернета версии 4 (TCP/IPv4) > Свойства.**
 
 **6) Выберите Использовать следующий IP-адрес и введите IP-адрес и маску подсети  и нажмите ОК.**
+
+Назначаю IP-адрес компьютеру:
+
+![](https://github.com/Art1shock/images/blob/main/Screenshot_25.png)
