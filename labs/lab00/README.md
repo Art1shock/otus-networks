@@ -8,13 +8,13 @@
 
 Вначале строю сеть согласно топологии, при этом подсоединяя консольный кабель к коммутатору:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_1.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_1.png)
 
 **b. Установите консольное подключение к коммутатору с компьютера PC-A с помощью Tera Term или другой программы эмуляции терминала:**
 
 Затем устанавливаю консольное соединение с коммутатором через компьютер:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_2.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_2.png)
 
 **Почему нужно использовать консольное подключение для первоначальной настройки коммутатора? Почему нельзя подключиться к коммутатору через Telnet или SSH?**
 
@@ -29,8 +29,9 @@
 Проверяю настройки коммутатора по умолчанию. Для этого нужно зайти в привилегированный режим с помощью команды enable, после чего
 введя команду **show running-config** могу посмотреть текущий файл конфигурации:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_3.png)
-![](https://github.com/Art1shock/images/blob/main/Screenshot_4.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_3.png)
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_4.png)
 
 **b. Изучите текущий файл running configuration.**
 
@@ -45,13 +46,13 @@
 
 Далее я хочу посмотреть файл загрузочной конфигурации (startup configuration), но появляется следующее сообщение:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_5.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_5.png)
 
 **Почему появляется это сообщение?**
 
 Это сообщение означает, что такого файла конфигурации нет, так как текущий конфиг не был сохранен в файле загрузочной конфигурации. Для того чтобы сохранить текущий файл конфигурации в загрузочный, нужно прописать команду **copy running-config startup-config**:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_6.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_6.png)
 
 Теперь после этой команды можно снова прописать **show startup-config** и команда отработает нормально (видно на скрине выше).
 
@@ -60,20 +61,20 @@
 
 Зайдем в файл текущей конфигурации с помощью команды **show run**, предварительно зайдя в привелегированный режим.
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_7.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_7.png)
 
 Как видно со скриншота выше интерфейс VLAN 1 не имеет IP-адреса (no ip address) и он выключен (shutdown).
 
 **Какой MAC-адрес имеет SVI? Возможны различные варианты ответов.**
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_9.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_9.png)
 
 Здесь видно, что интерфейс SVI (или VLAN) имеет следующий MAC-адрес: 0001.9764.a345 Узнать MAC-адрес можно с помощью команды **show interfaces vlan1**
 
 **e. Изучите IP-свойства интерфейса SVI сети VLAN 1.
 Какие выходные данные вы видите?**
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_21.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_21.png)
 
 Здесь видно, что интерфейс SVI не поднят, IP-адрес не назначен. Этот интерфейс административно отключен.
 
@@ -82,26 +83,26 @@
 
 Подключаю кабель Ethernet от компьютера к 6 порту на коммутаторе:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_10.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_10.png)
 
 Наведя курсором на кабель Ethernet (черная линия) можно увидеть к какому порту подключен кабель к коммутатору и компьютеру.
 
 **g. Изучите сведения о версии ОС Cisco IOS на коммутаторе.**
 **Под управлением какой версии ОС Cisco IOS работает коммутатор?**
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_11.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_11.png)
 
 Выше показана версия ОС Cisco IOS - 15.0(2)SE4
 
 **Как называется файл образа системы?**
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_13.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_13.png)
 
 Со скриншота видно, что файл образа системы имеет следующее название: 2960-lanbasek9-mz.150-2.SE4.bin
 
 **Какой базовый MAC-адрес назначен коммутатору?**
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_12.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_12.png)
 
 Базовый MAC-адрес коммутатора в данном случае будет следующий: 00:17:59:A7:51:80
 
@@ -109,7 +110,7 @@
 
 Свойтсва интерфейса FastEthernet 0/6 можно увидеть c помощью команды **show interfaces fastEthernet 0/6**. 0/6, так как провод подключен к 6 порту коммутатора. 
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_14.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_14.png)
 
 **Интерфейс включен или выключен?**
 
@@ -119,17 +120,17 @@
 
 Но если интерфейс выключен, то его можно включить с помощью команды **no shutdown**. Для этого надо сначала зайти в настройки интерфейса через режим глобальной конфигурации с помощью команды **conf t**. Оттуда уже можно зайти в настройки нужного интерфейса, например, **interface fastEthernet 0/6**. Естественно все настройки делаются предварительно зайдя в привелегированный режим.
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_15.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_15.png)
 
 **Какой MAC-адрес у интерфейса?**
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_16.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_16.png)
 
 MAC-адрес интерфейса fastEthernet 0/6: 000a.f356.1706
 
 **Какие настройки скорости и дуплекса заданы в интерфейсе?**
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_27.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_27.png)
 
 Скорость равна 100 Мбит/с. Полный дуплекс.
 
@@ -140,7 +141,7 @@ MAC-адрес интерфейса fastEthernet 0/6: 000a.f356.1706
 
 С помощью команды **show vlan brief** можно посмотреть необходимые параметры:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_17.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_17.png)
 
 Имя сети VLAN 1: default. Порты в сети VLAN 1: все порты fastEthernet и все порты gigabitEthernet
 
@@ -155,7 +156,7 @@ Switch# dir flash:
 В конце имени файла указано расширение, например .bin. Каталоги не имеют расширения файла.
 Какое имя присвоено образу Cisco IOS?**
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_18.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_18.png)
 
 Имя образа: 2960-lanbasek9-mz.150-2.SE4
 
@@ -173,14 +174,14 @@ enable secret class
 banner motd #
 Unauthorized access is strictly prohibited. #**
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_19.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_19.png)
 
 **b. Назначьте IP-адрес интерфейсу SVI на коммутаторе. Благодаря этому вы получите возможность удаленного управления коммутатором.
 Прежде чем вы сможете управлять коммутатором S1 удаленно с компьютера PC-A, коммутатору нужно назначить IP-адрес. Согласно конфигурации по умолчанию коммутатором можно управлять через VLAN 1. Однако в базовой конфигурации коммутатора не рекомендуется назначать VLAN 1 в качестве административной VLAN.**
 
 Назначаю IP-адрес и маску с помощью следующих команд:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_22.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_22.png)
 
 **c. Доступ через порт консоли также следует ограничить с помощью пароля. Используйте cisco в качестве пароля для входа в консоль в этом задании. Конфигурация по умолчанию разрешает все консольные подключения без пароля. Чтобы консольные сообщения не прерывали выполнение команд, используйте параметр logging synchronous.
 S1(config)# line con 0
@@ -188,14 +189,14 @@ S1(config-line)# logging synchronous**
 
 Зайдя в настройки порта консоли ставлю пароль cisco:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_23.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_23.png)
 
 **d. Настройте каналы виртуального соединения для удаленного управления (vty), чтобы коммутатор разрешил доступ через Telnet. Если не настроить пароль VTY, будет невозможно подключиться к коммутатору по протоколу Telnet.
 Для чего нужна команда login?**
 
 Ставлю пароль **cisco** для всех виртуальных линий (от 0 до 15):
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_24.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_24.png)
 
 Команда **login** нужна чтобы при входе, например, в пользовательский режим, пароль запрашивался, иначе пароль можно задать, но он запрашиваться не будет.
 
@@ -217,7 +218,7 @@ S1(config-line)# logging synchronous**
 
 Назначаю IP-адрес компьютеру:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_25.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_25.png)
 
 ## Часть 3. Проверка сетевых подключений
 
@@ -237,7 +238,7 @@ S1# show interface vlan 1**
 
 Предварительно подняв VLAN 1 с помощью команды **no shutdown** можно увидеть, что он поднят. Также можно увидеть, что канальный протокол также поднят.
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_26.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_26.png)
 
 Полоса пропускания: 100 Мбит/с (BW 100000 Kbit).
 
@@ -245,7 +246,7 @@ S1# show interface vlan 1**
 
 **a. В командной строке компьютера PC-A с помощью утилиты ping проверьте связь сначала с адресом PC-A.**
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_28.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_28.png)
 
 Со скриншота видно, что пинг прошел успешно, 4 из 4 пакетов дошли успешно без потерь.
 
@@ -254,8 +255,7 @@ S1# show interface vlan 1**
 
 Теперь пингую интерфейс SVI коммутатора:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_29.png)
-
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_29.png)
 Как видно пинг прошел успешно.
 
 ### Шаг 3. Проверьте удаленное управление коммутатором S1.
@@ -269,16 +269,16 @@ e. Чтобы завершить сеанс Telnet, введите exit.**
 
 Перед подключением через telnet мы должны определить по какому транспортному протоколу будет осуществляться подключение к терминальными линиям. Для этого в настройках терминальных линий введем команду **transport input telnet**:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_30.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_30.png)
 
 Теперь виртуальные линии настроены для подключения через telnet. IP-адрес также был прописан, так что теперь можно удаленно подключится через telnet. Для этого нужно ввести команду **telnet 192.168.1.2**. Указыается IP-адрес SVI.
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_31.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_31.png)
 
 Как видно подключение произошло успешно. Был запрошен пароль для входа, значит все настроено правильно.
 
 Сохраняем текущую конфигурацию и завершаем сеанс telnet:
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_32.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_32.png)
 
-![](https://github.com/Art1shock/images/blob/main/Screenshot_33.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_1/Screenshot_33.png)
