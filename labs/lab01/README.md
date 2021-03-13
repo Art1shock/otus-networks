@@ -24,12 +24,19 @@
 
 **a. Настройте имена устройств в соответствии с топологией.**
 
-Задаю имена коммутаторов в соответствии с топоологией (S1 и S2):
+Задаю имена коммутаторов в соответствии с топологией (S1 и S2):
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_2/Screenshot_4.png)
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_2/Screenshot_5.png)
 
 **b. Настройте IP-адреса, как указано в таблице адресации.**
+
+Далее прописываю IP-адреса для VLAN 1 в каждом коммутаторе в соответствии с топологией:
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_2/Screenshot_6.png)
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_2/Screenshot_7.png)
+
 **c. Назначьте cisco в качестве паролей консоли и VTY.**
 **d. Назначьте class в качестве пароля доступа к привилегированному режиму EXEC.**
