@@ -83,5 +83,13 @@ MAC-адрес компьютера PC-B: FE80::204:9AFF:FE38:E0E3
 **b.	Подключитесь к коммутаторам S1 и S2 через консоль и введите команду show interface F0/1 на каждом коммутаторе.
 
 Назовите адреса оборудования во второй строке выходных данных команды (или зашитый адрес — bia).
-МАС-адрес коммутатора S1 Fast Ethernet 0/1:
-МАС-адрес коммутатора S2 Fast Ethernet 0/1:
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_2/Screenshot_16.png)
+
+МАС-адрес коммутатора S1 Fast Ethernet 0/1: 0060.5cd1.4101
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_2/Screenshot_17.png)
+
+МАС-адрес коммутатора S2 Fast Ethernet 0/1: 000a.f388.5401
+
+
