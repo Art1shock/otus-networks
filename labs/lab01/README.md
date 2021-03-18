@@ -68,13 +68,17 @@
 
 **a.	Откройте командную строку на PC-A и PC-B и введите команду ipconfig /all.
 
-
+Введя данную команду на каждом из компьютеров можно назвать нужные MAC-адреса.
 
 Назовите физические адреса адаптера Ethernet.
 
-MAC-адрес компьютера PC-A:
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_2/Screenshot_14.png)
 
-MAC-адрес компьютера PC-B:
+MAC-адрес компьютера PC-A: FE::210:11FF:FE80:DD23
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_2/Screenshot_15.png)
+
+MAC-адрес компьютера PC-B: FE80::204:9AFF:FE38:E0E3
 
 **b.	Подключитесь к коммутаторам S1 и S2 через консоль и введите команду show interface F0/1 на каждом коммутаторе.
 
