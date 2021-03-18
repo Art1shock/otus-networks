@@ -156,4 +156,4 @@ S2# clear mac address-table dynamic**
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_2/Screenshot_20.png)
 
-Появилось 3 новых пары IP и MAC-адресов (все проме IP и MAC компьюетра PC-B, то есть с которого отправлялись эхо-запросы).
+Появилось 3 новых пары IP и MAC-адресов (все кроме IP и MAC компьютера PC-B, то есть с которого отправлялись эхо-запросы).
