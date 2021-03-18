@@ -114,11 +114,17 @@ S2# show mac address-table**
 ### Шаг 3. Очистите таблицу МАС-адресов коммутатора S2 и снова отобразите таблицу МАС-адресов.
 **a. В привилегированном режиме EXEC введите команду clear mac address-table dynamic и нажмите клавишу Enter.
 S2# clear mac address-table dynamic**
+
 **b. Снова быстро введите команду show mac address-table.**
 
 **Указаны ли в таблице МАС-адресов адреса для VLAN 1? Указаны ли другие МАС-адреса?**
 
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_2/Screenshot_19.png)
+
+Как видно теперь в таблице не отображаются MAC-адреса.
 
 **Через 10 секунд введите команду show mac address-table и нажмите клавишу ввода. Появились ли в таблице МАС-адресов новые адреса?**
 
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_2/Screenshot_18.png)
 
+Теперь снова появился MAC-адрес порта FastEthernet 0/1 коммутатора S1.
