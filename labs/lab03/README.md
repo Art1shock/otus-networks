@@ -82,7 +82,15 @@
 ### Шаг 3. Назначьте IPv6-адреса интерфейсу управления (SVI) на S1.
 #### a.	Назначьте адрес IPv6 для S1. Также назначьте этому интерфейсу локальный адрес канала.
 
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_4/Screenshot_15.png)
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_4/Screenshot_16.png)
+
 #### b.	Проверьте правильность назначения IPv6-адресов интерфейсу управления с помощью команды show ipv6 interface vlan1.
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_4/Screenshot_17.png)
+
+Все назначено верно.
 
 ### Шаг 4. Назначьте компьютерам статические IPv6-адреса.
 #### a.	Откройте окно Свойства Ethernet для каждого ПК и назначьте адресацию IPv6.
