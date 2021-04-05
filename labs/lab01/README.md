@@ -169,4 +169,4 @@ S2# clear mac address-table dynamic**
 
 Появилось 3 новых IP-адреса. Указаны все адреса, кроме одного - компьютера PC-B, с которого отправлялись эхо-запросы.
 
-[ВЕРНУТЬСЯ НАВЕРХ СТРАНИЦЫ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab02)
+[ВЕРНУТЬСЯ НАВЕРХ СТРАНИЦЫ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab01)
