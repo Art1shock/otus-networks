@@ -4,7 +4,7 @@
 
 - [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab03/config%20S1)
 
-- [ПОСМОТРЕТЬ КОНФИГ МАРШРУТИЗАТОРА R1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab03/Config%20R1)
+- [ПОСМОТРЕТЬ КОНФИГ МАРШРУТИЗАТОРА R1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab03/config%20R1)
 
 # Лабораторная работа. Настройка IPv6-адресов на сетевых устройствах.
 ## Часть 1. Настройка топологии и конфигурация основных параметров маршрутизатора и коммутатора.
