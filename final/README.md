@@ -1,3 +1,3 @@
-[ВЕРНУТЬСЯ НА ГЛАВНУЮ СТРАНИЦУ](https://github.com/Art1shock/otus-networks)
+- [ВЕРНУТЬСЯ НА ГЛАВНУЮ СТРАНИЦУ](https://github.com/Art1shock/otus-networks)
 
 Надеюсь здесь когда-то появится моя проектная работа....
