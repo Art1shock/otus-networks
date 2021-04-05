@@ -1,5 +1,5 @@
 - [ВЕРНУТЬСЯ К СПИСКУ ЛАБОРАТОРНЫХ РАБОТ](https://github.com/Art1shock/otus-networks/tree/main/labs)
-- [ПОСМОТРЕТЬ СХЕМУ СЕТИ](https://github.com/Art1shock/otus-networks/blob/main/labs/lab00/..md)
+- [ПОСМОТРЕТЬ СХЕМУ СЕТИ](https://github.com/Art1shock/otus-networks/blob/main/labs/lab00/1.md)
 - [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА](https://github.com/Art1shock/otus-networks/blob/main/labs/lab00/%D0%98%D1%82%D0%BE%D0%B3%D0%BE%D0%B2%D1%8B%D0%B9%20%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B3)
 # ДЗ БАЗОВАЯ НАСТРОЙКА КОММУТАТОРА.
 
