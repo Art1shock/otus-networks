@@ -1,6 +1,6 @@
 - [ВЕРНУТЬСЯ К СПИСКУ ЛАБОРАТОРНЫХ РАБОТ](https://github.com/Art1shock/otus-networks/tree/main/labs)
 - [ПОСМОТРЕТЬ СХЕМУ СЕТИ](https://github.com/Art1shock/otus-networks/blob/main/labs/lab00/1.md)
-- [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА](https://github.com/Art1shock/otus-networks/blob/main/labs/lab00/0.md)
+- [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab00/0.md)
 # ДЗ БАЗОВАЯ НАСТРОЙКА КОММУТАТОРА.
 
 ## Часть 1. Создание сети и проверка настроек коммутатора по умолчанию.
