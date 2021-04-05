@@ -1,4 +1,4 @@
-[Назад](https://github.com/Art1shock/otus-networks/tree/main/labs)
+[ВЕРНУТЬСЯ К СПИСКУ ЛАБОРАТОРНЫХ РАБОТ](https://github.com/Art1shock/otus-networks/tree/main/labs)
 
 # ДЗ БАЗОВАЯ НАСТРОЙКА КОММУТАТОРА.
 
