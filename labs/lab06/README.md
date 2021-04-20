@@ -6,4 +6,4 @@
 
 # Лабораторная работа. Развертывание коммутируемой сети с резервными каналами.
 
-[ВЕРНУТЬСЯ НАВЕРХ СТРАНИЦЫ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab05)
+[ВЕРНУТЬСЯ НАВЕРХ СТРАНИЦЫ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab06)
