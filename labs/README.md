@@ -6,3 +6,5 @@
 4) [Лабораторная работа. Настройка IPv6-адресов на сетевых устройствах.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab03)
 5) [Лабораторная работа. Доступ к сетевым устройствам по протоколу SSH.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab04)
 6) [Лабораторная работа. Внедрение маршрутизации между виртуальными локальными сетями.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab05)
+7) [Лабораторная работа. Развертывание коммутируемой сети с резервными каналами.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab06)
+
