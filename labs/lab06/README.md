@@ -50,7 +50,15 @@ h.	Скопируйте текущую конфигурацию в файл за
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_7/Screenshot_5.png)
 
 ### Шаг 2:	Настройте подключенные порты в качестве транковых.
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_7/Screenshot_7.png)
+
 ### Шаг 3:	Включите порты F0/2 и F0/4 на всех коммутаторах.
+
+Нужные порты включены:
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_7/Screenshot_8.png)
+
 ### Шаг 4:	Отобразите данные протокола spanning-tree.
 
 
