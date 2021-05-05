@@ -1,17 +1,17 @@
 - [ВЕРНУТЬСЯ К СПИСКУ ЛАБОРАТОРНЫХ РАБОТ](https://github.com/Art1shock/otus-networks/tree/main/labs)  
 - [ПОСМОТРЕТЬ СХЕМУ СЕТИ (СХЕМА СЕТИ ОБЩАЯ ДЛЯ ОБОИХ ЧАСТЕЙ)](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D1%81%D0%B5%D1%82%D0%B8.md)  
 
-**Лабораторная работа разделена на 2 большие части:**
-1) [Лабораторная работа. Реализация DHCPv4.](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-dhcpv4)  
+### Лабораторная работа разделена на 2 большие части:
+**1) [Лабораторная работа. Реализация DHCPv4.](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D1%80%D0%B5%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-dhcpv4)  
 1.1 [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%201%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20S1.md)  
 1.2 [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S2](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%201%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20S2.md)  
 1.3 [ПОСМОТРЕТЬ КОНФИГ МАРШРУТИЗАТОРА R1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%201%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20R1.md)  
 1.4 [ПОСМОТРЕТЬ КОНФИГ МАРШРУТИЗАТОРА R2](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%201%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20R2.md)
-2) [Лабораторная работа. Настройка DHCPv6.](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-dhcpv6-%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)  
-2.1 [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%202%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20S1.md)  
+### 2) [Лабораторная работа. Настройка DHCPv6.](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-dhcpv6-%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85)  
+**2.1 [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%202%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20S1.md)  
 2.2 [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S2](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%202%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20S2.md)  
 2.3 [ПОСМОТРЕТЬ КОНФИГ МАРШРУТИЗАТОРА R1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%202%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20R1.md)  
-2.4 [ПОСМОТРЕТЬ КОНФИГ МАРШРУТИЗАТОРА R2](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%202%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20R2.md)
+2.4 [ПОСМОТРЕТЬ КОНФИГ МАРШРУТИЗАТОРА R2](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%202%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20R2.md)**
 
 # Лабораторная работа. Реализация DHCPv4.
 
