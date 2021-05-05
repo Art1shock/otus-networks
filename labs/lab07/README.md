@@ -7,6 +7,6 @@
 
 # Лабораторная работа. Реализация DHCPv4.
 
-# Лабораторная работа. Настройка DHCPv6.
+# Лабораторная работа. Настройка DHCPv6. [ВЕРНУТЬСЯ НАВЕРХ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab07)
 
 [ВЕРНУТЬСЯ НАВЕРХ СТРАНИЦЫ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab07)
