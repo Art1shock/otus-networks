@@ -170,7 +170,7 @@ e.	Проверьте состояние транка.**
 #### d.	В качестве имени домена укажите CCNA-lab.com.  
 #### e.	Настройте соответствующий шлюз по умолчанию для каждого пула DHCP.  
 
-![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_8/%D0%A7%D0%B0%D1%81%D1%82%D1%8C_1/Screenshot_21.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_8/%D0%A7%D0%B0%D1%81%D1%82%D1%8C_1/Screenshot_21.1.png)
 
 #### f.	Настройте время аренды на 2 дня 12 часов и 30 минут.  
 
