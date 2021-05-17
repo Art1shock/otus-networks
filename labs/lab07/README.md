@@ -302,4 +302,10 @@ d.	Сохраните текущую конфигурацию в файл заг
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_8/%D0%A7%D0%B0%D1%81%D1%82%D1%8C_2/Screenshot_7.png)
 
+## Часть 3. Настройка и проверка сервера DHCPv6 на R1 [ВЕРНУТЬСЯ НАВЕРХ](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-dhcpv6-%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B)
+**В части 3 выполняется настройка и проверка состояния DHCP-сервера на R1. Цель состоит в том, чтобы предоставить PC-A информацию о DNS-сервере и домене.**
+### Шаг 1. Более подробно изучите конфигурацию PC-A.
+**a.	Выполните команду ipconfig /all на PC-A и посмотрите на результат.**
+
+
 [ВЕРНУТЬСЯ НАВЕРХ СТРАНИЦЫ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab07)
