@@ -184,9 +184,16 @@ Packet Tracer не нашел такую команду.
 **Сохраните текущую конфигурацию в файл загрузочной конфигурации.**
 
 ### Шаг 3. Проверка конфигурации сервера DHCPv4  
-**a.	Чтобы просмотреть сведения о пуле, выполните команду show ip dhcp pool.  
-b.	Выполните команду show ip dhcp bindings для проверки установленных назначений адресов DHCP.  
-c.	Выполните команду show ip dhcp server statistics для проверки сообщений DHCP.**
+#### a.	Чтобы просмотреть сведения о пуле, выполните команду show ip dhcp pool.  
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_8/%D0%A7%D0%B0%D1%81%D1%82%D1%8C_1/Screenshot_24.png)
+
+#### b.	Выполните команду show ip dhcp bindings для проверки установленных назначений адресов DHCP.  
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_8/%D0%A7%D0%B0%D1%81%D1%82%D1%8C_1/Screenshot_25.png)
+
+
+#### c.	Выполните команду show ip dhcp server statistics для проверки сообщений DHCP.
 
 ### Шаг 4. Попытка получить IP-адрес от DHCP на PC-A
 **a.	Из командной строки компьютера PC-A выполните команду ipconfig /all.  
