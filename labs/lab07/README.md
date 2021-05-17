@@ -7,7 +7,7 @@
 1.2 [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S2](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%201%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20S2.md)  
 1.3 [ПОСМОТРЕТЬ КОНФИГ МАРШРУТИЗАТОРА R1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%201%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20R1.md)  
 1.4 [ПОСМОТРЕТЬ КОНФИГ МАРШРУТИЗАТОРА R2](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%201%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20R2.md)
-### 2) [Лабораторная работа. Настройка DHCPv6.](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-dhcpv6)  
+### 2) [Лабораторная работа. Настройка DHCPv6.](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-dhcpv6-%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B)  
 2.1 [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%202%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20S1.md)  
 2.2 [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S2](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%202%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20S2.md)  
 2.3 [ПОСМОТРЕТЬ КОНФИГ МАРШРУТИЗАТОРА R1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/%D0%9A%D0%BE%D0%BD%D1%84%D0%B8%D0%B3%D0%B8%20%D0%B4%D0%BB%D1%8F%202%20%D1%87%D0%B0%D1%81%D1%82%D0%B8/config%20R1.md)  
@@ -241,7 +241,7 @@ b.	Сохраните конфигурацию.**
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_8/%D0%A7%D0%B0%D1%81%D1%82%D1%8C_2/Screenshot_1.png)
 
-## Часть 1. Создание сети и настройка основных параметров устройства [ВЕРНУТЬСЯ НАВЕРХ](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-dhcpv6)
+## Часть 1. Создание сети и настройка основных параметров устройства [ВЕРНУТЬСЯ НАВЕРХ](https://github.com/Art1shock/otus-networks/blob/main/labs/lab07/README.md#%D0%BB%D0%B0%D0%B1%D0%BE%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-%D0%BD%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B9%D0%BA%D0%B0-dhcpv6-%D0%B2%D0%B5%D1%80%D0%BD%D1%83%D1%82%D1%8C%D1%81%D1%8F-%D0%BD%D0%B0%D0%B2%D0%B5%D1%80%D1%85-%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D1%8B)
 #### В первой части лабораторной работы вам предстоит создать топологию сети и настроить базовые параметры для узлов ПК и коммутаторов.
 ### Шаг 1. Создайте сеть согласно топологии.
 #### Подключите устройства, как показано в топологии, и подсоедините необходимые кабели.
