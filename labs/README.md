@@ -8,3 +8,4 @@
 6) [Лабораторная работа. Внедрение маршрутизации между виртуальными локальными сетями.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab05)
 7) [Лабораторная работа. Развертывание коммутируемой сети с резервными каналами.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab06)
 8) [Лабораторная работа. Реализация DHCPv4, а также Настройка DHCPv6.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab07)
+9) [Лабораторная работа. Конфигурация безопасности коммутатора.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab08)
