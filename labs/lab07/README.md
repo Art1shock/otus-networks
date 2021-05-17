@@ -146,6 +146,10 @@ c.	В качестве другой части конфигурации маги
 d.	Сохраните текущую конфигурацию в файл загрузочной конфигурации.  
 e.	Проверьте состояние транка.**  
 
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_8/%D0%A7%D0%B0%D1%81%D1%82%D1%8C_1/Screenshot_16.png)
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_8/%D0%A7%D0%B0%D1%81%D1%82%D1%8C_1/Screenshot_17.png)
+
 **Какой IP-адрес был бы у ПК, если бы он был подключен к сети с помощью DHCP?**
 
 ## Часть 2. Настройка и проверка двух серверов DHCPv4 на R1 [ВЕРНУТЬСЯ НАВЕРХ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab07)
