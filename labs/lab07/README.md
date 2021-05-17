@@ -235,6 +235,10 @@ b.	Сохраните конфигурацию.**
 
 # Лабораторная работа. Настройка DHCPv6. [ВЕРНУТЬСЯ НАВЕРХ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab07)
 
+[Часть 1. ]()  
+[Часть 2. ]()  
+[Часть 3. ]()
+
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_8/%D0%A7%D0%B0%D1%81%D1%82%D1%8C_2/Screenshot_1.png)
 
 ## Часть 1. Создание сети и настройка основных параметров устройства
