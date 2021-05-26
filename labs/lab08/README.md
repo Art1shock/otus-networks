@@ -60,7 +60,7 @@ d.	Установите для шлюза по умолчанию для VLAN у
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_9/Screenshot_4.png)
 
-## Часть 2. Настройка сетей VLAN на коммутаторах. [ВЕРНУТЬСЯ НАВЕРХ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab08)
+## Часть 2. Настройка сетей VLAN на коммутаторах [ВЕРНУТЬСЯ НАВЕРХ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab08)
 ### Шаг 1. Сконфигруриуйте VLAN 10.
 #### Добавьте VLAN 10 на S1 и S2 и назовите VLAN - Management.
 ### Шаг 2. Сконфигруриуйте SVI для VLAN 10.
@@ -74,7 +74,7 @@ d.	Установите для шлюза по умолчанию для VLAN у
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_9/Screenshot_6.png)
 
-## Часть 3. Настройки безопасности коммутатора. [ВЕРНУТЬСЯ НАВЕРХ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab08)
+## Часть 3. Настройки безопасности коммутатора [ВЕРНУТЬСЯ НАВЕРХ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab08)
 ### Шаг 1. Релизация магистральных соединений 802.1Q.
 **a.	Настройте все магистральные порты Fa0/1 на обоих коммутаторах для использования VLAN 333 в качестве native VLAN.  
 b.	Убедитесь, что режим транкинга успешно настроен на всех коммутаторах.**
