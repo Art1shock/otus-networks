@@ -67,4 +67,6 @@ d.	Установите для шлюза по умолчанию для VLAN у
 ### Шаг 3. Настройте VLAN 333 с именем Native на S1 и S2.
 ### Шаг 4. Настройте VLAN 999 с именем ParkingLot на S1 и S2.
 
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_9/Screenshot_5.png)
+
 [ВЕРНУТЬСЯ НАВЕРХ СТРАНИЦЫ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab08)
