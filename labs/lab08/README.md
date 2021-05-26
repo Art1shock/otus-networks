@@ -50,5 +50,12 @@ R1# show ip interface brief**
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_9/Screenshot_3.png)
 
+### Шаг 3. Настройка и проверка основных параметров коммутатора
+**a.	Настройте имя хоста для коммутаторов S1 и S2.
+b.	Запретите нежелательный поиск в DNS.
+c.	Настройте описания интерфейса для портов, которые используются в S1 и S2.
+d.	Установите для шлюза по умолчанию для VLAN управления значение 192.168.10.1 на обоих коммутаторах.**
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_9/Screenshot_4.png)
 
 [ВЕРНУТЬСЯ НАВЕРХ СТРАНИЦЫ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab08)
