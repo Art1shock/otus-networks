@@ -161,6 +161,10 @@ o	Aging time: 60 мин.**
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_9/Screenshot_25.png)
 
+Также необходимо дописать дополнительную команду **no ip dhcp snooping information option** запрещающую опцию 82 DHCP. В противном коммутатор начинает вмешиваться в работу служебных кадров snooping.
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_9/Screenshot_26.png)
+
 **e.	В командной строке на PC-B освободите, а затем обновите IP-адрес.**
 
 C:\Users\Student> ipconfig /release  
