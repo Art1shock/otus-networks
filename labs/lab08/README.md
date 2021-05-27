@@ -170,6 +170,10 @@ o	Aging time: 60 мин.**
 C:\Users\Student> ipconfig /release  
 C:\Users\Student> ipconfig /renew
 
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_9/Screenshot_27.png)
+
 **f.	Проверьте привязку отслеживания DHCP с помощью команды show ip dhcp snooping binding.**
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_9/Screenshot_28.png)
 
 [ВЕРНУТЬСЯ НАВЕРХ СТРАНИЦЫ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab08)
