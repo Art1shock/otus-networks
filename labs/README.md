@@ -9,3 +9,4 @@
 7) [Лабораторная работа. Развертывание коммутируемой сети с резервными каналами.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab06)
 8) [Лабораторная работа. Реализация DHCPv4, а также Настройка DHCPv6.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab07)
 9) [Лабораторная работа. Конфигурация безопасности коммутатора.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab08)
+10) [Лабораторная работа. Настройка протокола OSPFv2 для одной области.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab09)
