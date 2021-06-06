@@ -71,7 +71,7 @@ h.	Сохраните текущую конфигурацию в файл заг
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_10/Screenshot_13.png)
 
-DR (Designated Router) - роутер R1, а BDR (Backup Designated Router) - роутер R2.
+DR (Designated Router) - роутер R2, а BDR (Backup Designated Router) - роутер R1.
 
 #### g.	На R1 выполните команду show ip route ospf, чтобы убедиться, что сеть R2 Loopback1 присутствует в таблице маршрутизации. Обратите внимание, что поведение OSPF по умолчанию заключается в объявлении интерфейса обратной связи в качестве маршрута узла с использованием 32-битной маски.
 
