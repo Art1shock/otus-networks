@@ -57,7 +57,7 @@ h.	Сохраните текущую конфигурацию в файл заг
 
 #### d.	Настройте инструкцию сети для сети между R1 и R2, поместив ее в область 0.
 
-![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_10/Screenshot_8.png)
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_10/Screenshot_8.1.png)
 
 #### e.	Только на R2 добавьте конфигурацию, необходимую для объявления сети Loopback 1 в область OSPF 0.
 
