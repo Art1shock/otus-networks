@@ -1,5 +1,5 @@
 - [ВЕРНУТЬСЯ К СПИСКУ ЛАБОРАТОРНЫХ РАБОТ](https://github.com/Art1shock/otus-networks/tree/main/labs)  
-- [ПОСМОТРЕТЬ СХЕМУ СЕТИ]()  
+- [ПОСМОТРЕТЬ СХЕМУ СЕТИ](https://github.com/Art1shock/otus-networks/blob/main/labs/lab09/%D0%A1%D1%85%D0%B5%D0%BC%D0%B0_%D1%81%D0%B5%D1%82%D0%B8.md)  
 
 # Лабораторная работа. Настройка протокола OSPFv2 для одной области
 
