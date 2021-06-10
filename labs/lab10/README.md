@@ -127,6 +127,8 @@ d.	Настройте первые пять линий VTY на каждом у�
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_11/Screenshot_18.png)
 
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_11/Screenshot_19.png)
+
 ### Шаг 2. Включите защищенные веб-службы с проверкой подлинности на R1.
 a.	Включите сервер HTTPS на R1.
 R1(config)# ip http secure-server 
