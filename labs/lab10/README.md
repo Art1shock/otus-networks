@@ -135,6 +135,17 @@ R1(config)# ip http secure-server
 b.	Настройте R1 для проверки подлинности пользователей, пытающихся подключиться к веб-серверу.  
 R1(config)# ip http authentication local**
 
-![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_11/Screenshot_20ng)
+Пакет трейсер не увидел такие команды (маршрутизатор самый последний 4331).
+
+## Часть 6. Проверка подключения
+### Шаг 1. Настройте узлы ПК.
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_11/Screenshot_20.png)
+
+Шаг 2. Выполните следующие тесты. Эхозапрос должен пройти успешно.
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_11/Screenshot_21.png)
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_11/Screenshot_22.png)
 
 [ВЕРНУТЬСЯ НАВЕРХ СТРАНИЦЫ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab10)
