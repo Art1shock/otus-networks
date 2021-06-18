@@ -11,3 +11,4 @@
 9) [Лабораторная работа. Конфигурация безопасности коммутатора.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab08)
 10) [Лабораторная работа. Настройка протокола OSPFv2 для одной области.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab09)
 11) [Лабораторная работа. Настройка и проверка расширенных списков контроля доступа.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab10)
+12) [Лабораторная работа. Настройка NAT для IPv4.](https://github.com/Art1shock/otus-networks/tree/main/labs/lab11)
