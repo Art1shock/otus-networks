@@ -173,6 +173,10 @@ R1(config)# ip http authentication local**
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_11/Screenshot_25.1.png)
 
+Можно оптимизировать эти политики и прописать их по-другому:
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_11/Screenshot_25.2.png)
+
 ### Шаг 2. Разработка и применение расширенных списков доступа, которые будут соответствовать требованиям политики безопасности.
 
 Теперь применяю все политики (кроме 2) в packet tracer:
