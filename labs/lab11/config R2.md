@@ -74,9 +74,7 @@ ip flow-export version 9
 !  
 !  
 banner motd ^C  
------------------------------------------------  
----------For authorized users only-------------  
------------------------------------------------  
+For authorized users only
 ^C  
 !  
 !  
