@@ -80,9 +80,7 @@ interface Vlan1
 ip default-gateway 192.168.1.1  
 !  
 banner motd ^C  
------------------------------------------------  
----------For authorized users only-------------  
------------------------------------------------  
+For authorized users only
 ^C  
 !  
 !  
