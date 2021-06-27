@@ -76,9 +76,7 @@ ip flow-export version 9
 access-list 1 permit 192.168.1.0 0.0.0.255  
 !  
 banner motd ^C  
------------------------------------------------  
----------For authorized users only-------------  
------------------------------------------------  
+For authorized users only
 ^C  
 !  
 !  
