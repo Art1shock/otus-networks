@@ -1,6 +1,5 @@
 - [ВЕРНУТЬСЯ НАЗАД](https://github.com/Art1shock/otus-networks/tree/main/labs/lab11)
-
-Building configuration...
+Building configuration...  
   
 Current configuration : 1280 bytes  
 !  
@@ -95,9 +94,9 @@ line vty 0 4
  password 7 0822455D0A16  
  login  
 line vty 5 15  
- password 7 0822455D0A16
- login
-!
-!
-!
-end
+ password 7 0822455D0A16  
+ login  
+!  
+!  
+!  
+end  
