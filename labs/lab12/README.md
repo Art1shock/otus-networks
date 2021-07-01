@@ -86,4 +86,23 @@ Packet tracer не видит команду **show cdp traffic**
 
 ![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_13/Screenshot_8.png)
 
+### Часть 3. Обнаружение сетевых ресурсов с помощью протокола LLDP
+**На устройствах Cisco протокол LLDP может быть включен по умолчанию. Воспользуйтесь LLDP, чтобы обнаружить порты, к которым подключены кабели.**
+
+#### a.	Введите соответствующую команду lldp, чтобы включить LLDP на всех устройствах в топологии.
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_13/Screenshot_9.png)
+
+#### b.	На S1 выполните соответствующую команду lldp, чтобы предоставить подробную информацию о S2. 
+
+Packet tracer не видит команду **show lldp entry S2**. Но можно ввести команду **show lldp neighbors detail** и найти S2:
+
+![](https://github.com/Art1shock/images/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%8B%20%D0%B4%D0%BB%D1%8F%20%D0%94%D0%97_13/Screenshot_10.png)
+
+**Что такое chassis ID для коммутатора S2?**
+
+Это MAC-адрес интерфейса FastEthernet 0/1 на S2.
+
+#### c.	Соединитесь через консоль на всех устройствах и используйте команды LLDP, необходимые для отображения топологии физической сети только из выходных данных команды show.
+
 [ВЕРНУТЬСЯ НАВЕРХ СТРАНИЦЫ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab12)
