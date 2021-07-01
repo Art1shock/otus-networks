@@ -80,6 +80,8 @@ Packet tracer не видит команду **show cdp traffic**
 
 **Какие дополнительные сведения доступны теперь?**
 
+Теперь в **Entry address(es)** появился ip-адрес S1.
+
 #### f.	Отключить CDP глобально на всех устройствах. 
 
 [ВЕРНУТЬСЯ НАВЕРХ СТРАНИЦЫ](https://github.com/Art1shock/otus-networks/tree/main/labs/lab12)
