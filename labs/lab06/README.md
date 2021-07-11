@@ -3,6 +3,7 @@
 - [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab06/config%20S1.md)  
 - [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S2](https://github.com/Art1shock/otus-networks/blob/main/labs/lab06/config%20S2.md)  
 - [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S3](https://github.com/Art1shock/otus-networks/blob/main/labs/lab06/config%20S3.md)
+- [СКАЧАТЬ ГОТОВУЮ СХЕМУ ДЛЯ CISCO PACKET TRACER](https://github.com/Art1shock/images/raw/main/%D0%94%D0%97_7.pkt)
 
 # Лабораторная работа. Развертывание коммутируемой сети с резервными каналами.
 
