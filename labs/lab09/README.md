@@ -4,6 +4,7 @@
 - [ПОСМОТРЕТЬ КОНФИГ КОММУТАТОРА S2](https://github.com/Art1shock/otus-networks/blob/main/labs/lab09/config%20S2.md)  
 - [ПОСМОТРЕТЬ КОНФИГ МАРШРУТИЗАТОРА R1](https://github.com/Art1shock/otus-networks/blob/main/labs/lab09/config%20R1.md)  
 - [ПОСМОТРЕТЬ КОНФИГ МАРШРУТИЗАТОРА R2](https://github.com/Art1shock/otus-networks/blob/main/labs/lab09/config%20R2.md)
+- [СКАЧАТЬ ГОТОВУЮ СХЕМУ ДЛЯ CISCO PACKET TRACER](https://github.com/Art1shock/images/raw/main/%D0%94%D0%97_10.pkt)
 
 # Лабораторная работа. Настройка протокола OSPFv2 для одной области.
 
